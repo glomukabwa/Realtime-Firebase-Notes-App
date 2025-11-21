@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "9394279806",
+    "firebase_url": "https://fir-realtimeactivity-default-rtdb.firebaseio.com",
+    "project_id": "fir-realtimeactivity",
+    "storage_bucket": "fir-realtimeactivity.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9394279806:android:a66c75c585960b75a48f2f",
+        "android_client_info": {
+          "package_name": "com.example.firebaserealtimeactivity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCksX06OfxYTK5gnzPfVHLmuSoLEt4bDGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
